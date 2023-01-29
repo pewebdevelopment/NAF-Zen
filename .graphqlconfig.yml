@@ -1,0 +1,12 @@
+projects:
+  nafzen:
+    schemaPath: 'D:/Code for Life/71. NAF Zen/NAF-Zen/graphql/schema.json'
+    includes:
+      - GraphQL/**/*.js
+    excludes:
+      - ./amplify/**
+    extensions:
+      amplify:
+        codeGenTarget: javascript
+        generatedFileName: ''
+        docsFilePath: GraphQL
