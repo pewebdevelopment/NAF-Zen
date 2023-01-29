@@ -1,4 +1,5 @@
 # Comments are written like this in this .yml file
+# Updated the base directory
 
 version: 1
 backend:
