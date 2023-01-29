@@ -1,6 +1,6 @@
 import { defineNuxtPlugin } from "#app";
 import { Amplify, Auth } from "aws-amplify";
-import awsmobile from "~/aws-exports.js";
+import awsmobile from "../aws-exports.js";
 
 // aws-exports should be dynamically generated
 
