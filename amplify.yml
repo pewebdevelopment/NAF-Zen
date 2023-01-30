@@ -1,3 +1,5 @@
+# Comments are written like this in this .yml file
+
 version: 1
 backend:
   phases:
